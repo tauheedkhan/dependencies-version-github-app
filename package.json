@@ -1,0 +1,16 @@
+{
+  "name": "dependencies-version-github-app",
+  "version": "1.0.0",
+  "description": "Github app to force strict dependencies version",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Tauheed khan",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/auth-app": "^2.4.3",
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  }
+}
