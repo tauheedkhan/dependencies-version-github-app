@@ -11,6 +11,6 @@
   "dependencies": {
     "@octokit/auth-app": "^2.4.3",
     "axios": "^0.19.2",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
